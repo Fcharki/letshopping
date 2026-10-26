@@ -11,6 +11,10 @@ This repository contains two apps:
 
 The two apps are independent packages that run side by side.
 
+## Background
+
+Originally built in 2024 as a learning project, then refactored with security hardening, validation, and automated tests.
+
 ## Features
 
 - Email/password registration with email verification
